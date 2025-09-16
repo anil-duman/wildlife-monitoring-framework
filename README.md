@@ -41,3 +41,11 @@ pip install -r requirements.txt
 ## Contributing
 
 Contributions are welcome. Please submit pull requests for any improvements.
+
+## License
+MIT License - see LICENSE file for details.
+
+## Author
+Anil Duman
+University of Europe for Applied Sciences
+Software Engineering M.Sc.
