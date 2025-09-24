@@ -15,7 +15,7 @@ This project implements machine learning techniques for wildlife species classif
 
 ## Dataset
 
-Evaluated on camera trap imagery featuring various animal species with associated metadata including timestamps and location information.
+Ohio Small Animals - https://lila.science/datasets/ohio-small-animals
 
 ## Requirements
 
@@ -33,19 +33,15 @@ Evaluated on camera trap imagery featuring various animal species with associate
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/wildlife-monitoring-framework.git
+git clone https://github.com/anil-duman/wildlife-monitoring-framework.git
 cd wildlife-monitoring-framework
 pip install -r requirements.txt
 ```
-
-## Contributing
-
-Contributions are welcome. Please submit pull requests for any improvements.
 
 ## License
 MIT License - see LICENSE file for details.
 
 ## Author
-Anil Duman
-University of Europe for Applied Sciences
-Software Engineering M.Sc.
+- Anil Duman
+- University of Europe for Applied Sciences
+- Software Engineering M.Sc.
